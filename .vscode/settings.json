@@ -1,0 +1,6 @@
+{
+    "remoteHub.commitDirectlyWarning": "auto",
+    "remoteHub.richNavigation.enabled": true,
+    "remoteHub.switchToCreatedBranch": "always",
+    "remoteHub.uncommittedChangesOnEntry": "none"
+}

@@ -1,11 +1,11 @@
-![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
+``![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
-GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
+GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion.
 
 ### Quick Start
 
 * [Discussions & Product Feedback](https://github.com/orgs/community/discussions)
-* [Join Global Campus](https://education.github.com/benefits?type=student) 
+* [Join Global Campus](https://education.github.com/benefits?type=student)
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
 * [Student Developer Pack Application & FAQs](https://github.com/orgs/community/discussions/17814)
 * [GitHub Community Discourse ➡️ Discussions Categories](https://github.com/orgs/community/discussions/21279)
